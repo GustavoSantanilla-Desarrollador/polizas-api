@@ -1,0 +1,16 @@
+target/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
+HELP.md
+
+# Nunca subir llaves SSH ni credenciales
+*.pem
+id_rsa*
+id_ed25519*
+
+/polizas
+/polizas.pub
